@@ -20,10 +20,4 @@ To participate in Hacktoberfest and contribute to this repository, follow these 
 
 Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for more details on the contribution process.
 
-## Resources for Beginners
-
-- [Link to useful articles or tutorials]
-- [List of beginner-friendly open-source projects]
-- [Development tools and software recommendations]
-
 Happy Hacking!
