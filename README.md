@@ -12,7 +12,7 @@ To participate in Hacktoberfest and contribute to this repository, follow these 
 1. Fork this repository.
 2. Clone your fork to your local machine.
 3. Choose an issue to work on (look for the "beginner-friendly" label).
-4. Create a new branch for your contribution.
+4. Create a new branch for your contribution (use your GitHub username as the branch name).
 5. Make your changes and commit them.
 6. Push your changes to your fork.
 7. Create a pull request.
