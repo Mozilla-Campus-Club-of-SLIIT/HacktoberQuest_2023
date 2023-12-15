@@ -5,6 +5,9 @@ def main():
     print("Hola Mundo")
     #printing hello world in german
     print("Bonjour, le monde !")
+    #printing hello world in italian
+    print("Buongiorno, mondo !")
+
 
 if __name__ == "__main__":
     main()
